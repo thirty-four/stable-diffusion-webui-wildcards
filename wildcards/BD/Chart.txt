@@ -16,3 +16,4 @@ Texture Chart
 Alignment Chart
 chibi icon chart
 girls Radar Chart
+girls mind map

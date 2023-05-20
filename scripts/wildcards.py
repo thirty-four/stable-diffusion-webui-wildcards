@@ -35,7 +35,7 @@ class WildcardsScript(scripts.Script):
             if prompt_file.is_file and prompt_file.stem == filename:
                 return prompt_file
             elif prompt_file.is_dir() and shared.opts.wildcards_recursive:
-                prompt_file = self.search_wildcard_file(filename, prompt_file)
+                prompt_file = self.search_wildcard_file(os.path.basename(filename), prompt_file)
                 if prompt_file:
                     return prompt_file
 

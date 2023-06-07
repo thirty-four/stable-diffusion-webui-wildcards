@@ -12,3 +12,4 @@ boardwalk, dusk, (stroll:1.2), soft lighting, silhouettes, streetlights, calming
 ((zero gravity,weightlessness,flying,floating in the air)),((arbor)) ,wonderland,((tropical fish, flock of tropical fish, colorful tropical fish, underwater, in the sea,school of fish, seaweed,jellyfish,pillar of light)), ((large shellfish,coral reef,airbladder:1.5 )), (((larg anchor,Deep sea background ))),goddess,((((large amount of fish)))),((garden)),Visual impact
 colorful,(flying jellyfish:1.5),standing in the ocean,(blue sky:1.2),(large amount of jellyfish:1.3),(Mysterious:1.3),(luminescence:1.3)
 (Many small boats are parked in the harbor where you can see the sky and cumulonimbus clouds:1.3),(piers:1.3),seagulls flying in the distance,twilight
+(beach, palm trees:1.3), beach, clear water,(blue sky, cumulonimbus:1.3),(starfish, seashell:1.2),(island),(hibiscus:1.4)

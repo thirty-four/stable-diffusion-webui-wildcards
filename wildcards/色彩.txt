@@ -33,3 +33,4 @@ monochrome
 brown theme
 blue theme
 pink theme
+Selective Color

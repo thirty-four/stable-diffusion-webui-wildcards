@@ -1,10 +1,10 @@
-sunset, secluded beach, sand, ocean, sky, (warm:1.2), (peaceful:1.1), twilight, waves, shore,
-moonlit, walk, riverbank, night, reflection, (calm:1.2), water, trees, pebbles, shadows,
-picnic, cherry blossom tree, (spring:1.2), petals, grass, blanket, soft light, leisure, outdoors, flowers,
-dancing, sunflower field, sunlight, (joy:1.2), summer, warm breeze, (freedom:1.1), nature, vibrant colors, happiness,
-wandering, mystical forest, (enchanted:1.2), trees, moss, soft light, (magic:1.1), path, foliage, mysterious,
-waterfall, (hidden:1.2), lush jungle, greenery, mist, tranquil, cascading water, ferns, rocks, nature,
-gazing, stars, mountain peak, (night sky:1.2), cool air, breathtaking view, serenity, adventure, solitude, vastness,
-trolling, lavender field, (fragrant:1.2), summer, purple, calming, warm breeze, picturesque, rows, nature,
-secret garden, full bloom, (colorful:1.2), flowers, serene, hidden, lush, peaceful, nature, oasis,
-on the snow-covered bridge, winter wonderland, (frosty:1.2), (enchanted:1.1), river, trees, cold, ice, footprints, solitude,
+sunset, secluded beach, sand, ocean, sky, (warm:1.2), (peaceful:1.1), twilight, waves, shore
+moonlit, walk, riverbank, night, reflection, (calm:1.2), water, trees, pebbles, shadows
+picnic, cherry blossom tree, (spring:1.2), petals, grass, blanket, soft light, leisure, outdoors, flowers
+dancing, sunflower field, sunlight, (joy:1.2), summer, warm breeze, (freedom:1.1), nature, vibrant colors, happiness
+wandering, mystical forest, (enchanted:1.2), trees, moss, soft light, (magic:1.1), path, foliage, mysterious
+waterfall, (hidden:1.2), lush jungle, greenery, mist, tranquil, cascading water, ferns, rocks, nature
+gazing, stars, mountain peak, (night sky:1.2), cool air, breathtaking view, serenity, adventure, solitude, vastness
+trolling, lavender field, (fragrant:1.2), summer, purple, calming, warm breeze, picturesque, rows, nature
+secret garden, full bloom, (colorful:1.2), flowers, serene, hidden, lush, peaceful, nature, oasis
+on the snow-covered bridge, winter wonderland, (frosty:1.2), (enchanted:1.1), river, trees, cold, ice, footprints, solitude

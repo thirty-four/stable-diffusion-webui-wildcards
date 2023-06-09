@@ -197,3 +197,153 @@ Fringe vest, bell-bottom pants, platform boots
 Sheer maxi dress, bralette, combat boots
 Metallic bodysuit, denim shorts, sneakers
 Bandana, graphic tee, biker shorts
+casual style, jeans, t-shirts, sneakers, [hoodies, simple, comfortable]
+athleisure, leggings, sports bras, running shoes, workout tops, joggers, athletic jackets
+sporty style, athletic clothing, sneakers, tracksuits, baseball caps, sports jerseys, performance fabrics
+streetwear, print shirt , cargo pants, bomber jacket, high-top sneakers, snapback hats, bold patterns
+urban style, street-inspired clothing, oversized jackets, graphic prints, statement sneakers, bold accessories, modern cuts
+rock style, edgy clothing, leather jackets, band tees, studded accessories, skinny jeans, bold makeup, statement footwear
+punk style, rebellious clothing, leather jackets, band tees, fishnet stockings, studded accessories, colored hair, DIY fashion
+hip-hop style, baggy pants, oversized hoodies, gold chains, snapback hats, high-top sneakers, bold prints
+gothic style, black clothing, lace accents, velvet fabrics, corsets, platform boots, silver jewelry
+hippie style, tie-dye clothing, bell-bottom pants, fringe vests, round sunglasses, headbands, earthy colors, relaxed silhouettes
+bohemian style, flowing dresses, layered clothing, earthy colors, fringe accessories, ethnic prints, natural fabrics, artistic designs
+Zen style, minimalist clothing, natural fabrics, neutral colors, clean lines, understated accessories, relaxed silhouettes, mindfulness-inspired fashion
+beach style, lightweight clothing, swimwear, sandals, sunglasses, sun hats, tropical prints, casual accessories, vibrant colors
+beach style,hawaiian shirt, micro_shorts , sandals, aviator sunglasses , alternate costume
+Insulated clothing, waterproof boots, gloves, hat, sunglasses, thermal layers
+girly style, lace dresses, pastel colors, floral prints, high-waisted skirts, ballet flats, delicate accessories
+preppy style, collared shirts, khaki pants, cable knit sweaters, loafers, blazers, plaid skirts
+classical style, timeless clothing, elegant silhouettes, refined fabrics, sophisticated color palettes
+vintage style, retro patterns, high-waisted pants, midi skirts, A-line dresses, classic accessories, period-inspired clothing
+minimalist style, neutral colors, clean lines, simple silhouettes, tailored clothing, basic accessories, timeless fashion
+monochrome style, single-color outfits, minimalist clothing, coordinated accessories, clean lines, understated elegance, simplicity
+coworking style, smart-casual attire, blouses, tailored pants, loafers, relaxed blazers, midi dresses
+suit style, tailored suits, dress shirts, ties, pocket squares, dress shoes, cufflinks, formal attire
+workwear style, denim overalls, utility jackets, sturdy boots, canvas pants, plaid shirts, functional clothing
+country style, western-inspired clothing, cowboy boots, denim, rustic accessories, earthy colors, casual comfort, (plaid_shirt)
+micro bikini, areola slip, bare_arms,
+see-through_shirt, short_sleeves , (leopard_print:0.6) bikini, short, navel, bracelet, belt, tan
+silk camisole
+negligee, dress, frills, embroidered flowers
+virgin killer sweater, sideboob, (sleeveless:1.2), cleavage_cutout
+cropped sweater, midriff, collarbone, sweater, shorts, long_sleeves
+school_uniform, skirt, pleated skirt, ribbon
+evening gowns, elegant dresses, polished shoes, refined accessories ,(sleeveless:1.3）
+tank top, short_shorts, sleeveless
+eco-friendly style, robes, sustainable clothing, organic fabrics, ethical brands, covered_collarbon, long skirt, short_sleeves, belt
+flowing sundress, white sneakers, lace detailing ,elegant
+loose-fitting sleeveless tunic, wide-leg pants, flat sandals, tote bag, sunglasses
+lace-trimmed blouse, midi skirt, high heels, handbag, statement earrings, elegant suitable outfit, semi-formal
+bike shorts, fitted sleeveless top, running shoes, headband and a hydration pack
+cropped leggings, lightweight sleeveless hoodie, running shoes, gloves
+A lightweight, insulated jacket paired with leggings and a moisture-wicking top, along with a pair of running shoes and a beanie
+fleece-lined hoodie, joggers and ankle boots, backpack
+street style, high-waisted wide-leg pants, loose-fitting hoodie, sneakers, crossbody bag, hat
+long-sleeved T-shirt, camouflage pants, sneakers, messenger bag, watch,military-inspired
+pencil skirt, fitted long-sleeved top, high-heeled boots, handbag, feminine, trendy, formal
+yuppy style, [black|dark] blue turtleneck sweater, dark denim jeans, leather boots, elegant, hat and scarf, glasses, watch
+chunky hooded knit cardigan with toggle closures, leather pants, high-heeled boots, handbag
+techwear jacket, biker_suits, long_sleeves, trousers, overalls, (buckle , tape:1.2)
+loose-fitting puffer jacket, jeans, ankle boots, crossbody bag, beanie
+ultra-thick down jacket paired with thermal overalls, snow boots, balaclava, mittens
+floral dress, denim jacket, white sneakers
+high-waisted jeans, cropped top, ankle boots
+midi skirt, tucked-in blouse, ballet flats
+palazzo pants, fitted crop top, platform sandals
+maxi dress, cardigan, gladiator sandals
+leather leggings, oversized sweater, knee-high boots
+pencil skirt, button-up shirt, classic pumps
+wide-leg jeans, turtleneck sweater, loafers
+A-line dress, blazer, heeled sandals
+culottes, sleeveless blouse, wedges
+tailored trousers, silk camisole, pointed-toe flats
+mini skirt, graphic tee, combat boots
+shirt dress, statement belt, ankle-strap heels
+distressed jeans, off-the-shoulder top, espadrilles
+romper, denim vest, platform sneakers
+bodycon dress, sheer tights, stiletto heels
+high-low skirt, halter top, block heels
+velvet pants, lace blouse, kitten heels
+wrap dress, statement necklace, strappy sandals
+jumpsuit, cropped blazer, mules
+pleated skirt, cashmere sweater, over-the-knee boots
+tweed jacket, tailored shorts, brogues
+tapered pants, oversized blouse, slingback heels
+pinafore dress, turtleneck, ankle boots
+cigarette pants, peplum top, oxford shoes
+flared jeans, boho blouse, wedge sandals
+slip dress, light cardigan, minimalist sneakers
+chiffon maxi skirt, crop top, gladiator sandals
+corduroy overalls, striped tee, canvas sneakers
+ruffled blouse, high-waisted shorts, espadrille wedges
+belted shirtdress, patterned tights, ankle boots
+sequin mini skirt, plain tee, biker jacket, high-top sneakers
+mom jeans, vintage sweater, loafers
+knit dress, long coat, heeled booties
+paperbag waist pants, fitted turtleneck, pumps
+babydoll dress, knee-high socks, Mary Jane shoes
+harem pants, tank top, flat sandals
+tweed mini skirt, tights, blouse, ankle boots
+puffer vest, long-sleeve shirt, leggings, riding boots
+plaid pants, white button-down, loafers
+fit and flare dress, cropped denim jacket, ballet flats
+joggers, crop top, bomber jacket, chunky sneakers
+asymmetrical skirt, camisole top, strappy heels
+bell-bottom jeans, off-the-shoulder blouse, platform heels
+utility jumpsuit, waist belt, ankle boots
+faux fur coat, skinny jeans, heeled booties
+tulle skirt, graphic tee, moto jacket, combat boots
+high-waisted leggings, sports bra, oversized hoodie, running shoes
+smock dress, patterned tights, heeled oxfords
+wide-brim hat, bohemian maxi dress, layered necklaces, flat sandals
+elven dress, leaf-patterned cloak, leather boots
+leather armor, chainmail leggings, steel greaves
+mage robe, wizard hat, enchanted amulet
+pirate captain outfit, tricorn hat, knee-high boots
+woodland nymph tunic, floral wreath, barefoot sandals
+bard blouse, colorful scarf, laced-up boots
+armored corset, battle skirt, gauntlets
+mermaid tail, seashell top, pearl necklace
+witch dress, pointy hat, lace-up ankle boots
+nomad wraps, desert scarf, soft leather sandals
+celestial gown, starry cape, moonstone tiara
+dragon scale armor, winged helmet, clawed gloves
+vampire countess dress, lace choker, velvet gloves
+fairy dress, gossamer wings, flower sandals
+steampunk corset, bustle skirt, knee-high lace-up boots
+healer's robe, hooded mantle, leather pouch
+knight's plate armor, tabard, armored boots
+archer's tunic, bracer, quiver, leather boots
+sorceress gown, enchanted staff, crystal tiara
+necromancer robe, skull amulet, dark hood
+forest ranger outfit, leather gloves, soft-soled boots
+enchanted princess dress, tiara, glass slippers
+samurai armor, hakama pants, tabi socks, geta sandals
+ice mage attire, fur-lined cloak, icy staff
+dwarven smith apron, leather pants, sturdy boots
+assassin's leather gear, hood, hidden blade gauntlets
+angelic gown, golden halo, feathered wings
+demoness bodysuit, horned headpiece, bat wings
+warrior queen armor, fur-lined cape, jeweled crown
+mystic seer robe, rune-etched amulet, crystal ball
+gladiator outfit, leather sandals, protective vambraces
+dark elf tunic, dual-wield daggers, shadowy cloak
+shapeshifter attire, animal-inspired accessories, feathered necklace
+elemental mage robe, sash representing elements, elemental staff
+royal guard uniform, plumed helmet, decorative armor
+gypsy-inspired dress, coin belt, ankle bells
+high priestess gown, gemstone encrusted headpiece, silk sash
+alchemist's robe, potion belt, magical tome
+valkyrie armor, winged helmet, fur-trimmed boots
+phoenix-inspired gown, feathered shoulders, fiery headdress
+druid robes, wooden staff, nature-inspired accessories
+swashbuckler's coat, ruffled shirt, knee-high leather boots
+shadow dancer outfit, half-mask, soft-soled slippers
+beast tamer attire, whip, animal-themed accessories
+spirit caller robes, spirit beads, ethereal cloak
+royal jester costume, tri-point hat, colorful tights
+spellblade attire, enchanted sword, spellcasting gauntlets
+futuristic cyber mage suit, holographic projections, techno-staff
+time traveler's outfit, clockwork accessories, pocket watch
+astral navigator's uniform, star chart, celestial compass

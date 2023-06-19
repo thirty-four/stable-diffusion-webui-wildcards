@@ -447,5 +447,57 @@ Striped wide-leg jumpsuit, straw tote
 Midi wrap dress, wide-brim hat, sandals
 Halter neck swimsuit, sarong, flip-flops
 Palazzo pants, crop top, slingback sandals
-
-
+business attire, suits, dress shirts, ties, formal shoes, tailored pants, blazers
+streetwear, graphic tees, cargo pants, bomber jackets, high-top sneakers, snapback hats, bold patterns
+elegant style, cocktail dresses, tailored suits, high heels, fine jewelry, dress shoes, silk ties
+athleisure, leggings, sports bras, running shoes, workout tops, joggers, athletic jackets
+rock style, leather jackets, band t-shirts, skinny jeans, studded accessories, combat boots, distressed denim
+vintage style, retro patterns, high-waisted pants, midi skirts, A-line dresses, classic accessories, period-inspired clothing
+bohemian style, flowy dresses, wide-leg pants, fringe accessories, earthy tones, sandals, layered jewelry
+girly style, lace dresses, pastel colors, floral prints, high-waisted skirts, ballet flats, delicate accessories
+minimalist style, neutral colors, clean lines, simple silhouettes, tailored clothing, basic accessories, timeless fashion
+grunge style, flannel shirts, ripped jeans, oversized sweaters, combat boots, bandanas, layered clothing
+preppy style, collared shirts, khaki pants, cable knit sweaters, loafers, blazers, plaid skirts
+conservative style, modest clothing, classic cuts, tailored suits, knee-length dresses, subdued colors, timeless accessories
+hip-hop style, baggy pants, oversized hoodies, gold chains, snapback hats, high-top sneakers, bold prints
+gothic style, black clothing, lace accents, velvet fabrics, corsets, platform boots, silver jewelry
+formal attire, evening gowns, tuxedos, dress shoes, fine jewelry, bow ties, tailored clothing
+workwear style, denim overalls, utility jackets, sturdy boots, canvas pants, plaid shirts, functional clothing
+beach style, swimsuits, cover-ups, flip-flops, straw hats, sunglasses, lightweight clothing
+punk style, leather jackets, plaid pants, band t-shirts, studded accessories, fishnet stockings, platform shoes
+coworking style, smart-casual attire, blouses, tailored pants, loafers, relaxed blazers, midi dresses
+urban style, street-inspired clothing, oversized jackets, graphic prints, statement sneakers, bold accessories, modern cuts
+festival style, fringe clothing, boho dresses, flower crowns, denim shorts, gladiator sandals, statement jewelry
+country style, cowboy boots, denim shirts, plaid patterns, wide-brimmed hats, leather belts, rustic clothing
+military style, camouflage patterns, cargo pants, bomber jackets, combat boots
+marine style, nautical stripes, navy blue, white, boat shoes, sailor-inspired clothing, anchor motifs, rope accessories
+sporty style, athletic clothing, sneakers, tracksuits, baseball caps, sports jerseys, performance fabrics
+denim style, jeans, denim jackets, chambray shirts, denim skirts, denim-on-denim outfits, casual accessories
+experimental style, avant-garde clothing, unique silhouettes, unconventional fabrics, bold colors, artistic designs, statement accessories
+ethnic style, traditional clothing, vibrant patterns, handmade textiles, cultural motifs, beaded jewelry, artisanal accessories
+suit style, tailored suits, dress shirts, ties, pocket squares, dress shoes, cufflinks, formal attire
+classical style, timeless clothing, elegant silhouettes, vintage-inspired accessories, refined fabrics, sophisticated color palettes
+retro style, clothing from past decades, vintage prints, nostalgic accessories, classic silhouettes, throwback fashion
+Scandinavian style, minimalistic clothing, neutral colors, clean lines, functional design, cozy textures, simple accessories
+futuristic style, cutting-edge fabrics, innovative designs, metallic accents, bold silhouettes, digital prints, modern accessories
+high-fashion style, designer clothing, runway-inspired looks, luxurious fabrics, statement accessories, couture designs, trend-setting outfits
+eco-friendly style, sustainable clothing, organic fabrics, ethical brands, recycled materials, conscious fashion, natural colors
+date-night style, romantic clothing, alluring silhouettes, lace accents, soft colors, stylish accessories, flattering outfits
+wedding guest style, semi-formal attire, cocktail dresses, tailored suits, dress shoes, appropriate accessories, elegant clothing
+cosplay style, costume-inspired clothing, themed outfits, character-based accessories, theatrical makeup, vibrant colors, unique designs
+Zen style, minimalist clothing, natural fabrics, neutral colors, clean lines, understated accessories, relaxed silhouettes, mindfulness-inspired fashion
+bohemian style, flowing dresses, layered clothing, earthy colors, fringe accessories, ethnic prints, natural fabrics, artistic designs
+grunge style, distressed clothing, oversized flannels, ripped jeans, combat boots, band tees, dark colors, rebellious accessories
+military style, camo prints, utility jackets, cargo pants, combat boots, khaki colors, functional accessories, durable fabrics
+rock style, edgy clothing, leather jackets, band tees, studded accessories, skinny jeans, bold makeup, statement footwear
+country style, western-inspired clothing, cowboy boots, denim, plaid shirts, rustic accessories, earthy colors, casual comfort
+monochrome style, single-color outfits, minimalist clothing, coordinated accessories, clean lines, understated elegance, simplicity
+streetwear style, urban clothing, oversized tees, graphic prints, sneakers, casual accessories, relaxed silhouettes, edgy designs
+business casual style, tailored blazers, dress pants, skirts, button-up shirts, loafers, professional accessories, polished outfits
+idol style, cute clothing, bright colors, playful patterns, ruffled skirts, knee-high socks, kawaii accessories, youthful designs
+gothic style, dark clothing, black lace, corsets, velvet, chokers, dramatic makeup, brooding accessories, mysterious aura
+hippie style, tie-dye clothing, bell-bottom pants, fringe vests, round sunglasses, headbands, earthy colors, relaxed silhouettes
+punk style, rebellious clothing, leather jackets, band tees, fishnet stockings, studded accessories, colored hair, DIY fashion
+minimalist style, simple clothing, neutral colors, clean lines, functional design, understated accessories, timeless silhouettes
+beach style, lightweight clothing, swimwear, sandals, sunglasses, sun hats, tropical prints, casual accessories, vibrant colors
+formal style, evening gowns, tuxedos, elegant dresses, polished shoes, refined accessories, sophisticated silhouettes, timeless fashion

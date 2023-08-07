@@ -601,3 +601,23 @@ Satin medium dress, heels, statement jewelry
 Tailored pants, silk blouse, pointed-toe pumps
 Lace dress, waist belt heeled sandals
 Velvet jumpsuit, plunging neckline, heels
+oversized denim jacket, wide-leg pants, sneakers, beret
+volume sleeve blouse, maxi skirt, sandals, hat
+drop shoulder shirt, wide denim, leather shoes, bucket hat
+(big size long sleeved knit:1.2), palazzo pants, boots, beanie hat
+loose silhouette dress, leather sandals, (fedora hat:1.2), chain necklace
+wide sleeve cardigan, shirt dress, sneakers, beads bracelet
+loose fit hoodie, wide leg pants, loafers, (crossbody bag:1.2)
+big size t-shirt, boyfriend jeans, chunky heel boots, belt
+flare sleeve blouse, pleated skirt, ballet flats, long necklace
+(volume neck:1.4) t-shirt, wide chino pants, slip-ons, fisherman hat
+loose fit sweater, (flare long skirt:1.33), long boots, hoop earrings
+wide sleeve blouse, boyfriend denim, sneakers, beanie
+loose fit cardigan, straight jeans, flat shoes, chain bracelet
+(volume collar shirt:1.25), flare jeans, lace-up boots, fringe belt
+loose fit sweater, (palazzo pants:1.2), leather shoes, pearl necklace
+loose fit hoodie, boyfriend jeans, (high-cut sneakers:1.2), bucket hat
+(big size long sleeved knit:1.2), wide leg pants, flat shoes, (barrette, hair slide:1.22)
+loose silhouette dress, chunky sandals, hat, hoop earrings
+drop shoulder shirt, (palazzo pants:1.2), (boots:1.27), bucket bag
+volume sleeve blouse, wide-leg pants, leather sandals, hat

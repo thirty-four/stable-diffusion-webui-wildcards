@@ -50,18 +50,7 @@ If you do not know how to uninstall extension, here's a rundown:
 
 On line 424, right below the `i2i = StableDiffusionProcessingImg2Img` class instanciation, add the line `i2i._ad_idx = p._ad_idx`:
 
-```python{7}
-            extra_generation_params=p.extra_generation_params,
-            do_not_save_samples=True,
-            do_not_save_grid=True,
-            override_settings=override_settings,
-        )
-
-        i2i._ad_idx = p._ad_idx
-        i2i.cached_c = [None, None]
-        i2i.cached_uc = [None, None]
-        i2i.scripts, i2i.script_args = self.script_filter(p, args)
-```
+![adetailer-code.png](images\adetailer-code.png)
 
 A PR is in progress on the main extension, so hopefully, installing adetailer from the main branch will be possible.
 

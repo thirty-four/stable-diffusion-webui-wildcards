@@ -48,7 +48,11 @@ If you do not know how to uninstall extension, here's a rundown:
 
 ## Adding the line yourself
 
-On line 424, right below the `i2i = StableDiffusionProcessingImg2Img` class instanciation, add the line `i2i._ad_idx = p._ad_idx`:
+On line 423, right below the `i2i = StableDiffusionProcessingImg2Img` class instanciation, add the following line 
+
+```python
+i2i._ad_idx = p._ad_idx
+```
 
 ![adetailer-code.png](images/adetailer-code.png)
 

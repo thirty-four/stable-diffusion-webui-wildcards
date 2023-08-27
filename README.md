@@ -1,7 +1,7 @@
 # Wildcards
 This extension version is meant to work in pair with this version of [after-detailer](https://github.com/Cryptik-Rick/sd-webui-adetailer) by keeping track of what wildcard has been replaced with, and applying the same wildcard to after detailer's inpainting.
 
-It will work with the base version, but by replacing any wildcard with a random one. This is the first version, and I intend to improve it with a couple quality of life options. See [Upcomming features](#Upcomming_features) for more details.
+It will work with the base version, but by replacing any wildcard with a random one. This is the first version, and I intend to improve it with a couple quality of life options. See [Upcomming features](#upcomming_features) for more details.
 
 ## Features
  * Use `__name__` syntax in your prompt to get a random line from a file named `name.txt` in the wildcards directory.
@@ -10,10 +10,10 @@ It will work with the base version, but by replacing any wildcard with a random 
  * zip file with the wildcards I use included. Just unzip to use.
 
 ## Install
-**Very important:** A line of code needs to be added to the base after-detailer extension in order to keep track of which image we are processing. You can [add the line yourself](#Adding_the_line_yourself), or follow the instructions below:
+**Very important:** A line of code needs to be added to the base after-detailer extension in order to keep track of which image we are processing. You can [add the line yourself](#adding_the_line_yourself), or follow the instructions below:
 
 1. If stable-diffusion-webui-wildcards is already installed, make a copy of your wildcards folder, as these will get deleted.
-1. Make sure the the following extensions are **uninstalled**: stable-diffusion-webui-wildcards, adetailer, sd-dynamic-prompts See [uninstalling extensions](#Uninstalling_extensions) for more details
+1. Make sure the the following extensions are **uninstalled**: stable-diffusion-webui-wildcards, adetailer, sd-dynamic-prompts See [uninstalling extensions](#uninstalling_extensions) for more details
 1. Open "Extensions" tab.
 1. Open "Install from URL" tab in the tab.
 1. Enter https://github.com/Cryptik-Rick/sd-webui-wildcards-ad.git to "URL for extension's git repository".
@@ -36,7 +36,7 @@ If you do not know how to uninstall extension, here's a rundown:
 ## Install manually
 Alternatively, to install by hand:
 
-1. Make sure the the following extensions are **uninstalled**: stable-diffusion-webui-wildcards, adetailer, sd-dynamic-prompts See [uninstalling extensions](#Uninstalling_extensions) for more details
+1. Make sure the the following extensions are **uninstalled**: stable-diffusion-webui-wildcards, adetailer, sd-dynamic-prompts See [uninstalling extensions](#uninstalling_extensions) for more details
 2. From your base `stable-diffusion-webui` directory, run the following commands to install:
     ```
     git clone https://github.com/Cryptik-Rick/sd-webui-wildcards-ad.git extensions/sd-webui-wildcards-ad

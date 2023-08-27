@@ -10,10 +10,10 @@ It will work with the base version, but exactly as it would on the base version.
  * zip file with the wildcards I use included. Just unzip to use.
 
 ## Install
-**Very important:** A line of code needs to be added to the base after-detailer extension in order to keep track of which image we are processing. You can [add the line yourself](#adding_the_line_yourself), or follow the instructions below:
+**Very important:** A line of code needs to be added to the base after-detailer extension in order to keep track of which image we are processing. You can [add the line yourself](#adding-the-line-yourself), or follow the instructions below:
 
 1. If stable-diffusion-webui-wildcards is already installed, make a copy of your wildcards folder, as these will get deleted.
-1. Make sure the the following extensions are **uninstalled**: stable-diffusion-webui-wildcards, adetailer, sd-dynamic-prompts See [uninstalling extensions](#uninstalling_extensions) for more details
+1. Make sure the the following extensions are **uninstalled**: stable-diffusion-webui-wildcards, adetailer, sd-dynamic-prompts See [uninstalling extensions](#uninstalling-extensions) for more details
 1. Open "Extensions" tab.
 1. Open "Install from URL" tab in the tab.
 1. Enter https://github.com/Cryptik-Rick/sd-webui-wildcards-ad.git to "URL for extension's git repository".
@@ -26,17 +26,10 @@ It will work with the base version, but exactly as it would on the base version.
 1. Replace the wildcards folder with the backup you made (if applicable)
 1. Completely restart A1111 webui including your terminal (black screen that appears when you start automatic 1111).
 
-### Uninstalling extensions
-If you do not know how to uninstall extension, here's a rundown:
-
-1. Stop A1111 webui by closing your terminal (black screen that appears when you start automatic 1111).
-1. Navigate to your A1111's install location and then into extensions
-1. Manually delete the extension's folders
-
 ## Install manually
 Alternatively, to install by hand:
 
-1. Make sure the the following extensions are **uninstalled**: stable-diffusion-webui-wildcards, adetailer, sd-dynamic-prompts See [uninstalling extensions](#uninstalling_extensions) for more details
+1. Make sure the the following extensions are **uninstalled**: stable-diffusion-webui-wildcards, adetailer, sd-dynamic-prompts See [uninstalling extensions](#uninstalling-extensions) for more details
 2. From your base `stable-diffusion-webui` directory, run the following commands to install:
     ```
     git clone https://github.com/Cryptik-Rick/sd-webui-wildcards-ad.git extensions/sd-webui-wildcards-ad
@@ -44,6 +37,14 @@ Alternatively, to install by hand:
     ```
 
 Then restart the webui.
+
+
+## Uninstalling extensions
+If you do not know how to uninstall extension, here's a rundown:
+
+1. Stop A1111 webui by closing your terminal (black screen that appears when you start automatic 1111).
+1. Navigate to your A1111's install location and then into extensions
+1. Manually delete the extension's folders
 
 ## Adding the line yourself
 
@@ -61,6 +62,8 @@ On line 424, right below the `i2i = StableDiffusionProcessingImg2Img` class inst
         i2i.cached_uc = [None, None]
         i2i.scripts, i2i.script_args = self.script_filter(p, args)
 ```
+
+A PR is in progress on the main extension, so hopefully, installing adetailer from the main branch will be possible.
 
 ## Upcomming features
  - [ ] Making a settings menu.

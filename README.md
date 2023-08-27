@@ -50,7 +50,7 @@ If you do not know how to uninstall extension, here's a rundown:
 
 On line 424, right below the `i2i = StableDiffusionProcessingImg2Img` class instanciation, add the line `i2i._ad_idx = p._ad_idx`:
 
-![adetailer-code.png](images\adetailer-code.png)
+![adetailer-code.png](images/adetailer-code.png)
 
 A PR is in progress on the main extension, so hopefully, installing adetailer from the main branch will be possible.
 

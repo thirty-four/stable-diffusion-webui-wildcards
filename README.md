@@ -1,7 +1,7 @@
 # Wildcards
 This extension version is meant to work in pair with this version of [after-detailer](https://github.com/Cryptik-Rick/sd-webui-adetailer) by keeping track of what wildcard has been replaced with, and applying the same wildcard to after detailer's inpainting.
 
-It will work with the base version, but by replacing any wildcard with a random one. This is the first version, and I intend to improve it with a couple quality of life options. See [Upcomming features](#upcomming_features) for more details.
+It will work with the base version, but exactly as it would on the base version. This is the first version, and I intend to improve it with a couple quality of life options. See [Upcomming features](#upcomming_features) for more details.
 
 ## Features
  * Use `__name__` syntax in your prompt to get a random line from a file named `name.txt` in the wildcards directory.

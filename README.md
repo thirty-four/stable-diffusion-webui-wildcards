@@ -13,7 +13,7 @@ It will work with the base version, but exactly as it would on the base version.
 **Very important:** A line of code needs to be added to the base after-detailer extension in order to keep track of which image we are processing. You can [add the line yourself](#adding-the-line-yourself), or follow the instructions below:
 
 1. If stable-diffusion-webui-wildcards is already installed, make a copy of your wildcards folder, as these will get deleted.
-1. Make sure the the following extensions are **uninstalled**: stable-diffusion-webui-wildcards, adetailer, sd-dynamic-prompts See [uninstalling extensions](#uninstalling-extensions) for more details
+1. Make sure the the following extensions are **uninstalled**: stable-diffusion-webui-wildcards, adetailer, sd-dynamic-prompts. Dynamic-prompts is currently not compatible with the extension. It can still be disabled, though, if you would prefer that. See [uninstalling extensions](#uninstalling-extensions) for more details
 1. Open "Extensions" tab.
 1. Open "Install from URL" tab in the tab.
 1. Enter https://github.com/Cryptik-Rick/sd-webui-wildcards-ad.git to "URL for extension's git repository".

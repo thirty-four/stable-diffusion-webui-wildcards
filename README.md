@@ -59,6 +59,7 @@ i2i._ad_idx = p._ad_idx
 A PR is in progress on the main extension, so hopefully, installing adetailer from the main branch will be possible.
 
 ## Upcomming features
+ - [ ] Updating dynamic prompts with the same changes (wildcards would not be useful naymore in that case)
  - [ ] Making a settings menu.
  - [ ] "Replace wildcards" option instead of the inline brackets.
  - [ ] adetailer's PNG info with wildcards replaced (the main one is fine, adetailer's one will still show the one before wildcards).

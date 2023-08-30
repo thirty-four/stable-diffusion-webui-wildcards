@@ -66,6 +66,8 @@ class WildcardsScript(scripts.Script):
                     p.prompt = re.sub(pattern, r'__\1__', p.prompt)
                     print("Fixed prompt: ", p.prompt)
 
+                print("Final AD prompt: ", p.prompt)
+                
                 p.prompt = "".join(self.replace_wildcard(chunk, gen, {}) for chunk in p.prompt.split("__"))
 
                 # Setting different prompts to the new generated one
@@ -85,6 +87,7 @@ class WildcardsScript(scripts.Script):
         if original_prompt != p.all_prompts[0]:
             p.extra_generation_params["Wildcard prompt"] = original_prompt
 
+        shared.Shared.d_replacements = dict_rep
 
 def on_ui_settings():
     shared.opts.add_option("wildcards_same_seed", shared.OptionInfo(False, "Use same seed for all images", section=("wildcards", "Wildcards")))

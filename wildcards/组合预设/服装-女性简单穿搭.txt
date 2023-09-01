@@ -621,3 +621,23 @@ loose fit hoodie, boyfriend jeans, (high-cut sneakers:1.2), bucket hat
 loose silhouette dress, chunky sandals, hat, hoop earrings
 drop shoulder shirt, (palazzo pants:1.2), (boots:1.27), bucket bag
 volume sleeve blouse, wide-leg pants, leather sandals, hat
+turtleneck knit, denim jacket, (flare skirt, boots:1.2)
+long sleeve t-shirt, (vest:1.3), (wide leg pants:1.1), loafers, fedora hat
+camisole, (overblouse:1.3), slim jeans, sneakers, beanie hat
+cardigan, (tailored jacket:1.3), straight jeans, boots, chain necklace
+tank top, (overshirt:1.2), wide chino pants, leather sandals, bucket hat
+crew neck t-shirt, (over zip-hoodie:1.2), skinny jeans, high-cut sneakers, bucket hat
+(tunic:1.2), over denim jacket, leggings, boots, choker necklace
+puffy down jacket, cropped tank top, short leather pants, (leather combat boots:1.2), hoop earrings
+turtleneck shirt dress, over coat, chunky heel boots, belt
+sweatshirt, (bomber jacket, skinny jeans, sneakers, basic cap
+(hoodie:1.1), denim jacket, wide-leg pants, (loafers:1.2), bucket hat
+round neck t-shirt, (over a flannel shirt:1.3), straight jeans, boots, chain necklace
+turtleneck top, (over shirt dress:1.3), chunky heel boots, belt
+(hoodie:1.1), (blouson:1.1), wide leg pants, (loafers:1.2), bucket hat
+(lace-frilled blouse:1.1), short jacket, pants, sneakers, beret
+slim fit t-shirt, vest, skinny jeans, (loafers:1.2), fedora hat
+(flannel shirt:1.2) over a round neck t-shirt, skinny jeans, (boots:1.2), choker necklace
+crew neck t-shirt, shirt jacket, chino pants, sneakers, cap
+(sleeveless top:1.2), (cardigan:1.3), wide pants, sandals, choker
+boat neck top, (denim jacket:1.3), pants, flat shoes, beanie hat

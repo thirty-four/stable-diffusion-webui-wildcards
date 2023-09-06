@@ -25,3 +25,5 @@ empty theater stage, after the show, quiet, spotlight, curtains, performance, at
 (town, snow, snow city, snowing:1.5),(1snowman:1.1),(residential area, street corner:1.3),(outdoors)
 (heavy rain,raining,pouring rain:1.5),( puddles, water ripples:1.2),(outdoor,in street:1.3),(cloudy),(in front of the shop:1.4)
 rooftop,outdoor,concrete floor,dusty,dirty,messy,unclean,(ruined),broken,(mesh fence:1.2),cloudy,sky,cloud,evening,twilight,dusk
+(restaurant, waitress, standing, holding a tray in the hand:1.2), (tight-fitting clothes:1.2), (tight white tank top:1.4), (wear a white tank top over naked body:1.1), (detailed tangerine orange yoga shorts:1.4), (wearing tangerine yoga shorts over pantyhose),(owl-print on tank top), (plunking neckline:1.2), bare shoulder, plump thighs
+Chinese restaurant, Lanterns, Ranma

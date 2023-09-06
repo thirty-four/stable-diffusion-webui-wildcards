@@ -641,3 +641,4 @@ slim fit t-shirt, vest, skinny jeans, (loafers:1.2), fedora hat
 crew neck t-shirt, shirt jacket, chino pants, sneakers, cap
 (sleeveless top:1.2), (cardigan:1.3), wide pants, sandals, choker
 boat neck top, (denim jacket:1.3), pants, flat shoes, beanie hat
+(intricately designed Flamenco costume:1.5), (elegant purple and white hues:1.4)

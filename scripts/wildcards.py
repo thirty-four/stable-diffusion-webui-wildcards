@@ -4,7 +4,7 @@ import sys
 from pprint import pprint
 import re
 
-from modules import scripts, script_callbacks, shared
+from modules import scripts, script_callbacks, shared, shared_items
 
 warned_about_files = {}
 wildcard_dir = scripts.basedir()
@@ -36,10 +36,10 @@ class WildcardsScript(scripts.Script):
         return text
 
     def process(self, p, *args, **kwargs):
-        if(not hasattr(shared.Shared, "d_replacements") or getattr(p,"_ad_idx",-1) == -1):
-            shared.Shared.d_replacements = {}
+        if(not hasattr(shared_items.Shared, "d_replacements") or getattr(p,"_ad_idx",-1) == -1):
+            shared_items.Shared.d_replacements = {}
         original_prompt = p.all_prompts[0]
-        dict_rep = shared.Shared.d_replacements
+        dict_rep = shared_items.Shared.d_replacements
         gen = random.Random()
         i = getattr(p, "_ad_idx", -1) # Image id from after detailer
 
@@ -100,7 +100,7 @@ class WildcardsScript(scripts.Script):
             if negative_prompt != p.all_negative_prompts[0]:
                 p.extra_generation_params["Wildcard negative prompt"] = negative_prompt
 
-        shared.Shared.d_replacements = dict_rep
+        shared_items.Shared.d_replacements = dict_rep
 
 def on_ui_settings():
     shared.opts.add_option(

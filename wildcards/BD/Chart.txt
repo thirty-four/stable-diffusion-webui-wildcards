@@ -21,3 +21,4 @@ car specification table
 Create illustration of girl shown in full body view
 produce image character painted in style of anime, while keeping background in realistic style
 background that appears to extend into the distance, giving impression of three-dimensional space
+infographics,multiple facial expressions

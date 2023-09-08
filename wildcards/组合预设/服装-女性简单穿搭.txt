@@ -650,3 +650,4 @@ cheongsam top, latex black bodysuit,high-leg cut
 white shirt, (sailor collar:1.2), (red tie:1.3), (wear white school uniform top over school swimsuit:1.2), (shut shirt front), (white shirt covers the bosom of the swimsuit:1.1), (short sleeves:1.1), (blue one-piece swimsuit:0.7), (white thighhighs:1.2), loafers
 detailed pink bodysuit and gothic lolita with gold embroidery
 (pirates, pirate costume, pirate ship)
+(School Uniforms:1.2), (wear a beige knit-sweater over a white shirt:1.3), (red bow:1.3), (plaid pattern pleated skirt:1.3)

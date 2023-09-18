@@ -90,7 +90,7 @@ class WildcardsScript(scripts.Script):
             negative_prompt = p.all_negative_prompts[0]
 
             for npct in range(len(p.all_negative_prompts)):
-                if not pct in dict_rep:
+                if not npct in dict_rep:
                     dict_rep[npct] = {}
 
                 prompt = p.all_negative_prompts[npct]

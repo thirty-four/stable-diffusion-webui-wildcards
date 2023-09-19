@@ -27,5 +27,6 @@ empty theater stage, after the show, quiet, spotlight, curtains, performance, at
 rooftop,outdoor,concrete floor,dusty,dirty,messy,unclean,(ruined),broken,(mesh fence:1.2),cloudy,sky,cloud,evening,twilight,dusk
 (restaurant, waitress, standing, holding a tray in the hand:1.2), (tight-fitting clothes:1.2), (tight white tank top:1.4), (wear a white tank top over naked body:1.1), (detailed tangerine orange yoga shorts:1.4), (wearing tangerine yoga shorts over pantyhose),(owl-print on tank top), (plunking neckline:1.2), bare shoulder, plump thighs
 Chinese restaurant, Lanterns, Ranma
-(Private esthetic room, in beauty salon, on bed:1.1), (Many bottles of aroma oil:1.0), (many brown towels:1.2), 
+(Private esthetic room, in beauty salon, on bed:1.1), (Many bottles of aroma oil:1.0), (many brown towels:1.2)
 neon curtains,toy stuffed animal junk shops
+(abandoned factory,large junk shops),Ruined Plaza,Abandoned Plane,Scrapped Spaceship

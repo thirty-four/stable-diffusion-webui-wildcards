@@ -7,7 +7,6 @@ It will work with the base version, but exactly as it would on the base version.
  * Use `__name__` syntax in your prompt to get a random line from a file named `name.txt` in the wildcards directory.
  * Use `[__name__]` in adetailer's prompt to fill in the wildcard with the same name that was generated for the main prompt.
  * Or use `__name__` in the adetailer's prompt to generate a new random one.
- * zip file with the wildcards I use included. Just unzip to use.
 
 ## Install
 **Very important:** A line of code needs to be added to the base after-detailer extension in order to keep track of which image we are processing. You can [add the line yourself](#adding-the-line-yourself), or follow the instructions below:

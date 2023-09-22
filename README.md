@@ -15,10 +15,10 @@ It will work with the base version, but exactly as it would on the base version.
 1. Make sure the the following extensions are **uninstalled**: stable-diffusion-webui-wildcards, adetailer, sd-dynamic-prompts. Dynamic-prompts is currently not compatible with the extension. It can still be disabled, though, if you would prefer that. See [uninstalling extensions](#uninstalling-extensions) for more details
 1. Open "Extensions" tab.
 1. Open "Install from URL" tab in the tab.
-1. Enter https://github.com/Cryptik-Rick/sd-webui-wildcards-ad.git to "URL for extension's git repository".
+1. Enter https://github.com/sdbds/sd-webui-wildcards-ad.git to "URL for extension's git repository".
 1. Press "Install" button.
 1. Wait 5 seconds, and you will see the message "Installed into stable-diffusion-webui\extensions\sd-webui-wildcards-ad."
-1. Enter https://github.com/Cryptik-Rick/sd-webui-adetailer.git to "URL for extension's git repository".
+1. Enter https://github.com/Cryptik-Ric/sd-webui-adetailer.git to "URL for extension's git repository".
 1. Press "Install" button.
 1. Wait 5 seconds again and you will see the message "Installed into stable-diffusion-webui\extensions\sd-webui-adetailer."
 1. Go to "Installed" tab, click "Check for updates", and then click "Apply and restart UI". (The next time you can also use this method to update extensions.)
@@ -31,7 +31,7 @@ Alternatively, to install by hand:
 1. Make sure the the following extensions are **uninstalled**: stable-diffusion-webui-wildcards, adetailer, sd-dynamic-prompts See [uninstalling extensions](#uninstalling-extensions) for more details
 2. From your base `stable-diffusion-webui` directory, run the following commands to install:
     ```
-    git clone https://github.com/Cryptik-Rick/sd-webui-wildcards-ad.git extensions/sd-webui-wildcards-ad
+    git clone https://github.com/sdbds/sd-webui-wildcards-ad.git extensions/sd-webui-wildcards-ad
     git clone https://github.com/Cryptik-Rick/sd-webui-adetailer.git extensions/sd-webui-adetailer
     ```
 

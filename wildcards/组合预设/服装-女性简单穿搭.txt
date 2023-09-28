@@ -684,3 +684,4 @@ double-breasted blazer, french cuffs shirt, chino pants, leather loafer
 windbreaker, button-down shirt, chino pants, deck shoes
 (waitress:1.2), (light-blue gingham-check suspender-skirt:1.4), (long skirt:1.2), (white blouse:1.3), ((double-breasted, underbust):1.2), (solid-blue bow-tie:1.3), (short sleeves, button gap),
 (gothic lolita:1.4), (open short-cape:1.2), ((ribbon, frills):1.3), (green tartan-check pattern:1.3), ((white collar, tie):1.3), (short sleeve:1.2), ((ruffle-skirt, multilayer-skirt):1.3), (Fishnet-stockings:1.2), (glove:1.2), (X hair ornament, hairpin)
+(rock style), (Wear a black leather-jacket over a black crop-top:1.4), (black latex shorts:1.4), ((jacket pull, bare shoulders):1.3), (zipper on black crop-top:1.3), (crazy amount of buttons:1.2), ((skull print, navel):1.2), (latex belt, black dog-collar:1.3), (studded accessories,earrings:1.1), combat boots

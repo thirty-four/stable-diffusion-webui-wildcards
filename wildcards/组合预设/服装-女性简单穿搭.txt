@@ -689,3 +689,25 @@ windbreaker, button-down shirt, chino pants, deck shoes
 (light-blue and black theme:1.3), ((gothic lolita, black wedding dress):1.2), (black see-through wedding-veil:1.4), ((black latex corset, light-blue breast-cup):1.4), (short puff-sleeve:1.3), ((white collar, tie-bow):1.3), ((ruffle-skirt, multilayer-skirt):1.4), ((stockings, garter belt):1.3), (long gloves:1.2), (blue rose decoration on head:1.3)
 (fusion of white sundress and white school uniform:1.4), (white pleated skirt:1.5), (white beret with light-blue ribbon:1.4), (blue sailor collar:1.4), (white shirt:1.3), (short puff sleeve:1.2), (light-blue ribbon:1.3), (blue line on skirt:1.2), ((white socks, loafers):1.2)
 (fusion of black sundress and black school uniform:1.4), (black shirt:1.4), (black pleated skirt:1.3), (black beret with red ribbon:1.4), (black sailor collar:1.4), (short puff sleeve:1.2), (pink ribbon:1.3), (red line on skirt:1.2), ((black socks, loafers):1.2)
+duffle coat, (turtle neck sweater:1.2), Pleated skirt, leather boots
+(big size long sleeved knit:1.2), (palazzo pants:1.1), boots, beanie hat
+(loose fit cardigan:1.2), straight jeans, flat shoes, chain bracelet
+pea coat, turtleneck, straight pants, boots
+maxi coat, long sleeve shirt, chino pants, boots
+Red velvet sweater, Black leather pants, Gold bracelet, leather boots
+modern classic coat, straight pants, pumps, designer handbag
+(mink fur coat:1.2), (evening dress:1.1), patent leather pumps, (diamond earrings:1.1)
+(over-size turtleneck sweater:1.1), (wide-leg pants:1.1), (wool scarf:1.22), leather boots
+(Wool coat:1.2), Skinny jeans, Knit hat, (Suede boots:1.1)
+(Down jacket:1.2), Sweater shirt, Sweat pants, Sneakers
+(Cashmere sweater:1.2), Pleated skirt, (Earmuffs:1.1), (Boots:1.2)
+(Denim jacket:1.2), White T-shirt, (Maxi skirt:1.3), (Fringe scarf:1.2), Loafers
+(Velvet jacket:1.3), (Leather skirt:1.1), Heeled boots,
+(Boa:1.3) jacket, (Flare pants:1.2), Beanie, Platform boots,
+(Fur coat:1.2), skirt, Bangle, (Lace-up boots:1.1)
+Mock neck sweater, Cargo pants, Wool hat, Chukka boots
+Cardigan, Denim skirt, Feather necklace, Penny loafers
+(Flannel shirt:1.2), (Culottes pants:1.2), beret, Earrings, Ankle boots
+(Knit maxi-length dress:1.2), (Luxury bag:1.1), Ring, boots,
+Hoodie, (Capri pants:1.1), Backpack, sneakers
+(Oversized sweater:1.2), Shorts, Hairband, (suede knee-high platform boots:1.1)

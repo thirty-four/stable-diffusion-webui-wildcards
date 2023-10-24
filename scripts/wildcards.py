@@ -40,7 +40,6 @@ class WildcardsScript(scripts.Script):
             shared_items.Shared.d_replacements = {}
         original_prompt = p.all_prompts[0]
         dict_rep = shared_items.Shared.d_replacements
-        gen = random.Random()
         i = getattr(p, "_ad_idx", -1) # Image id from after detailer
 
         #TODO: Add support for negatives
@@ -68,6 +67,9 @@ class WildcardsScript(scripts.Script):
 
                 print("Final AD prompt: ", p.prompt)
                 
+                gen = random.Random()
+                gen.seed(p.all_seeds[0])
+
                 p.prompt = "".join(self.replace_wildcard(chunk, gen, {}) for chunk in p.prompt.split("__"))
 
                 # Setting different prompts to the new generated one
@@ -81,6 +83,9 @@ class WildcardsScript(scripts.Script):
                     dict_rep[pct] = {}
                 prompt = p.all_prompts[pct]
 
+                gen = random.Random()
+                gen.seed(p.all_seeds[0 if shared.opts.wildcards_same_seed else pct])
+
                 prompt = "".join(self.replace_wildcard(chunk, gen, dict_rep[pct]) for chunk in prompt.split("__"))
                 p.all_prompts[pct] = prompt
 
@@ -93,6 +98,9 @@ class WildcardsScript(scripts.Script):
                 if not npct in dict_rep:
                     dict_rep[npct] = {}
 
+                gen = random.Random()
+                gen.seed(p.all_seeds[0 if shared.opts.wildcards_same_seed else npct])
+                
                 prompt = p.all_negative_prompts[npct]
                 prompt = "".join(self.replace_wildcard(chunk, gen, dict_rep[npct]) for chunk in prompt.split("__"))
                 p.all_negative_prompts[npct] = prompt

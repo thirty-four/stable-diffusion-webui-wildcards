@@ -702,3 +702,23 @@ Cardigan, Denim skirt, Feather necklace, Penny loafers
 (Knit maxi-length dress:1.2), (Luxury bag:1.1), Ring, boots
 Hoodie, (Capri pants:1.1), Backpack, sneakers
 (Oversized sweater:1.2), Shorts, Hairband, (suede knee-high platform boots:1.1)
+(oversize shirt:1.2), straight pants, (sneakers:1.1), backpack
+(black knit turtleneck, wide white pants:1.2), boots, (glasses:1.2)
+(button down shirt:1.2), (chino pants:1.1), loafers, fedora hat
+(cardigan:1.2), (basic T-shirt:1.2), denim pants, sneakers
+(bomber jacket:1.1), basic T-shirt, skinny jeans, boots
+denim jacket, white shirt, (chino pants:1.2), (deck shoes:1.1)
+(long sleeve T-shirt:1.2), wide pants, (slip-ons:1.2), baseball cap
+(basic T-shirt under a vest:1.2), (slim fit jeanes:1.13),( sneakers:1.15)
+(blazer over an oxford shirt:1.2), (straight chino pants:1.1), (loafer:1.22)
+(button down sweater:1.2), long denim pants, (sneakers:1.2)
+(jacket, (high neck shirt:1.1), straight pants, boots:1.3)
+(designers coat with basic T-shirt:1.25), (tight pants:1.2), (suede boots:1.134)
+(zip-up hoodie over a basic T-shirt:1.2), (skinny jeans, sneakers:1.2)
+(pea coat:1.2), turtleneck, (straight pants:1.2), (boots:1.1)
+(maxi coat:1.2), (long sleeve shirt:1.13), (chino pants:1.3), boots
+(blazer:1.3), (shirt:1.23), (skinny jeans:1.2), (boots:1.17)
+(over size basic T-shirt:1.24), (wide pants:1.2), deck shoes, (messenger bag:1.1)
+(maxi dress:1.3), ((leather:0.7) jacket:1.2), (sneakers:1.2), (glasses:1.3)
+hoodie, skinny jeans, (sneakers:1.2), baseball cap
+(button down shirt:1.3), straight pants, ((leather:0.7) boots:1.2), (backpack:1.2)

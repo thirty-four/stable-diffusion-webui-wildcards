@@ -722,3 +722,18 @@ denim jacket, white shirt, (chino pants:1.2), (deck shoes:1.1)
 (maxi dress:1.3), ((leather:0.7) jacket:1.2), (sneakers:1.2), (glasses:1.3)
 hoodie, skinny jeans, (sneakers:1.2), baseball cap
 (button down shirt:1.3), straight pants, ((leather:0.7) boots:1.2), (backpack:1.2)
+Turtleneck top, Leather skirt, (Diamond necklace:1.2), Pumps
+White (silk blouse:1.2), (High waist:1.1) pants, Gold bracelet, Nude high heels
+(Navy blue jacket:1.23), (Grey slim-fit pants:1.2), Silver chain necklace, (Black leather shoes:0.6)
+(Grey cashmere sweater:1.2), (Black denim:0.8) long pants, Pearl earrings, (White sneakers:1.1)
+(Beige coat:1.2), (Ivory white silk skirt:1.1), Gold ring, (Ivory white leather:0.9) boots
+(Black leather jacket:1.1), (Red skirt:1.2), Silver bracelet, (Black boots:1.15)
+(White silk blouse:1.17), Blue denim, Gold choker, (White sneakers:1.2)
+((Beige cashmere:1.2) sweater:1.2), (((Black) leather:0.9) skirt:1.1), Diamond earrings, ((Black) high heels:1.1)
+Black (velvet top:1.2), White (high waist pants:1.2), Silver ring, ((Black leather:0.9) boots:1.1)
+(Red silk blouse:1.2), Black (slim fit pants:1.1), Gold necklace, (Red high heels:1.2)
+Black (turtleneck sweater:1.2), (Red leather skirt:1.2), Diamond bracelet, Black (ankle boots:1.25)
+White (velvet top:1.35), Blue denim, Gold earrings, (White leather boots:1.14)
+(Beige leather jacket:1.1), White (knit tops:1.2), White (lace-trimmed silk skirt:1.2), Diamond ring, (Beige high heels:1.26)
+Black (silk blouse:1.28), (Grey:1.2) denim, Silver choker, (Black sneakers:1.14)
+(Red velvet sweater:1.3), (Black leather pants:1.14), Gold bracelet, (Black leather boots:1.18)
